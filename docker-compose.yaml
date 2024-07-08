@@ -4,4 +4,4 @@ services:
     image: shopping-app:1.0
     container_name: shopping-app-compose
     ports:
-      - 8086:80
+      - 8000:80
