@@ -116,4 +116,3 @@ Prod Repo
 ### Alert message when server goes down
 
 ![alt text](/images/alert-email.png)
-s
